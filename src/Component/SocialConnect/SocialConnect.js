@@ -9,9 +9,7 @@ import boat from '../../Assets/Links/boat.webp'
 import ethScan from   "../../Assets/Links/etherscan.png"
 const SocialConnect = () => {
     return (
-        <div className="footer wf-section">
-            <div className="container-wrraper">
-                <div className="div-block-38">
+                <div className="container-wrraper">
                     <div>
                         <a href="https://www.instagram.com/crypt3dpunks/" target="_blank" className="footer-icon-linkblock sp w-inline-block">
                             <img src={Instragram} loading="lazy" alt="Instagram" className="footer-icon-image" />
@@ -41,12 +39,12 @@ const SocialConnect = () => {
 
                         </a>
                     </div>
-                    <div className="footer"><a href="/license" className="link-thin">EULA</a><br/>
+                    <div className='copyright'><a href="/license" className="link-thin">EULA</a><br/>
                         2021 Copyright. All Rights Reserved.<br/>
                     </div>
                 </div>
-            </div>
-        </div>
+            
+        
     )
 };
 

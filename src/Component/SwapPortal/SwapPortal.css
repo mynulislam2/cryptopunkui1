@@ -20,7 +20,6 @@
     padding: 0px 35px;
     margin-bottom: 5px !important;
     font-family: "Ubuntu-Light" !important;
-    color: black;
 
     /* font-weight: 500 !important; */
 }
@@ -28,7 +27,6 @@
 .PersonalNftINfoValue p {
     background-color: #ecebeb;
     padding: 3px 35px;
-    color: black;
     margin-bottom: 6px !important;
     font-family: "Ubuntu-Medium" !important;
 

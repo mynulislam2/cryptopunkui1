@@ -1,10 +1,20 @@
-.div-block-38{
-    background-color: #F4F4F4;
-padding: 20px 0px;
-}
+
 .div-block-38 div a img{
 width: 60px;
 
+}
+.container-wrraper{
+    padding: 20px 0px;
+    color: black;
+    background-image: linear-gradient(to right, #aed5e6 , #cfedf8d0);
+
+}
+.copyright{
+    color: black;
+    text-decoration: none;
+} 
+.copyright a{
+    text-decoration: none;
 }
 .div-block-38 div a img:hover{
     filter: invert();
